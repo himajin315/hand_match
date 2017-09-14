@@ -14,4 +14,6 @@
  *= require_self
  *= require_tree .
  */
-@import "bootstrap";
+@import 'bootstrap-sass/assets/stylesheets/bootstrap';
+@import 'bootstrap-sass/assets/stylesheets/bootstrap/custom';
+@import "font-awesome/scss/font-awesome";
