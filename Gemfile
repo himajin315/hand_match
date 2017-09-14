@@ -1,10 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'bootstrap-sass'
 gem 'coffee-rails', '~> 4.2'
 gem 'jbuilder'
 gem 'jquery-ui-rails'
-gem 'jquery-rails'
 gem 'mysql2', '>= 0.3.18', '< 0.5'
 gem 'nokogiri'
 gem 'puma', '~> 3.7'
@@ -31,7 +29,10 @@ group :development, :test do
   gem 'spring'
   gem 'spring-commands-rspec'
   gem 'spring-watcher-listen', '~> 2.0.0'
+  gem 'pry'
+  gem 'pry-doc'
   gem 'pry-byebug'
+  gem 'pry-stack_explorer'
   gem 'pry-rails'
 end
 
