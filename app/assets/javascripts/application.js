@@ -15,6 +15,7 @@
 //= require jquery.easing.min
 //= require bootstrap-sass/assets/javascripts/bootstrap
 //= require bootstrap
+//= require bootstrap-sprockets
 //= require wow
 //= require cable
 //= require scripts
