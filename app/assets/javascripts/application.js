@@ -11,7 +11,9 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require jquery
 //= require jquery.easing.min
+//= require bootstrap-sass/assets/javascripts/bootstrap
 //= require bootstrap
 //= require wow
 //= require cable
